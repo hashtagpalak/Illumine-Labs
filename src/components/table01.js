@@ -1,5 +1,5 @@
 import React from 'react';
-import Details from './details'
+import Details from './details';
 
 function Table01(){
     return(
